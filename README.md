@@ -7,6 +7,7 @@ A computer designed to play Conway's Game of Life.
 - a 512 byte ROM
 - 8192 bits of RAM (8Kx1)
 - one 4-bit output port, used for a SSD1306 display and a speaker
+- possibility of adding an expension ROM starting at address 0x2000 (see rom.asm for the implementation)
 
 ## Contents
 
